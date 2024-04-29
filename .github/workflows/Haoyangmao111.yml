@@ -1,4 +1,4 @@
-name: Haoyangmao
+name: baize
 
 on:
   workflow_dispatch:
